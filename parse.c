@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 	int IOUINST, IOUINTF, IOULIVEINST;
 	char tempPath[40], IOULIVE_NAME[40], IOU_NAME[40];
 
-	printf("\nIOUlive86 Beta v0.9 2011/06/03\n\n");
+	printf("\nIOUlive86\n\n");
 
 	if (argc < 4 || argc > 6) {
 		print_usage();

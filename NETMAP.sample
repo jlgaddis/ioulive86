@@ -1,3 +1,10 @@
+/*      THIS IS A SAMPLE NETMAP FILE.                                   */
+
+/*      It must be customized to your setup before it will work.        */
+
+/*      For details on the format of this file, see the Cisco IOU FAQ:  */
+/*      http://evilrouters.net/cisco-iou-faq/                           */
+
 777:0/0@rhel5 199:0/0@rhel5
 777:0/1@rhel5 201:0/0@rhel5
 777:0/2@rhel5 202:0/0@rhel5
